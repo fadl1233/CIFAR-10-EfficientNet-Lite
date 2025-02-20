@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/CIFAR-10-EfficientNet-Lite-GAN.git
+git clone https://github.com/fadl1233/CIFAR-10-EfficientNet-Lite-GAN.git
 cd CIFAR-10-EfficientNet-Lite-GAN
 Install dependencies:
 
